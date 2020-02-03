@@ -1,0 +1,5 @@
+It's a game of memory where you have a 4x4 grid with cards
+Each card has it's own pair and you have to find the matching pair
+Click 2 cards at a time to find the pair 
+But you only get 2 clicks, so be sure to remember where each cards are if they don't match
+Press play to go on to the next screen
